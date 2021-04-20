@@ -1,0 +1,18 @@
+img{
+  width: 100%;
+}
+
+header li{
+  text-align: center;
+  display: inline;
+  justify-content: space-between ;
+  padding: 0 15px 0 13px;
+}
+
+body{
+  background: #FFB6C1;
+}
+
+branding li {
+  color: #ffffff;
+}
